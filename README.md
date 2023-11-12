@@ -1,4 +1,4 @@
-# ML-RPC Scanner and Brute Force Tool
+# XML-RPC Scanner and Brute Force Tool
 
 ## Description
 This Python script is designed to identify the presence of the xmlrpc.php file in WordPress installations and perform a variety of actions through XML-RPC requests. The tool supports both detection mode, to identify the existence of xmlrpc.php, and brute-force attacks against the WordPress login using XML-RPC.
